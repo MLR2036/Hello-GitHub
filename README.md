@@ -1,2 +1,3 @@
-# Warehouse_OTS
-Warehouse order tracking system for NB Gardens
+# Hello GitHub
+First upload to Git Hub
+
